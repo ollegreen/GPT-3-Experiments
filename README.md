@@ -1,6 +1,6 @@
 # Testing the limits of GPT 3 by OpenAI 
 
-*We got APU-access to the most powerful AI in the world, let's have some fun with it.*
+*We got APi-access to one of the most powerful AI models in the world, let's have some fun with it.*
 
 ![openai](https://openai.com/content/images/2019/05/openai-cover.png)
 
