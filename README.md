@@ -6,8 +6,11 @@
 
 ## The Goal & Results
 * The current projects I've seen have been pretty significant, but let's try out some more odd ones. 
-* The results of each project can be found on the notion.so page, [here](https://www.notion.so/dataalliance-io-adcc3cbb49ca454ba6405f1df69d2b9f).
+* The results of each project can be found on the notion.so page, **[here](https://www.notion.so/dataalliance-io-adcc3cbb49ca454ba6405f1df69d2b9f)**.
 
-Olle 
+/ Olle 
 
-![Notion](https://lh3.googleusercontent.com/proxy/prqkidrOQD25xvVnCdjBQKGpqqfbARF_CVSK9i7g80n5Ox6zQ8Grke930MMUVKyHB2g4H3z767-i8EF_RmLg_GQ9pbvLoefSNaNmbERydUdokWmVdgb12bW44rLI0nc6AubeF9yHPpdKsA)
+</br>
+</br>
+
+![Notion](https://cdn.iconscout.com/icon/free/png-256/notion-1693557-1442598.png)
