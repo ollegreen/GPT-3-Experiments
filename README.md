@@ -7,6 +7,7 @@
 ## The Goal & Results
 * The current projects I've seen have been pretty significant, but let's try out some more odd ones. 
 * The results of each project can be found on the notion.so page, **[here](https://www.notion.so/dataalliance-io-adcc3cbb49ca454ba6405f1df69d2b9f)**.
+* ```Note:``` The API is no longer in closed beta with free access to the API. Some new restrictions have applied to the amount of processing.
 
 </br>
 
